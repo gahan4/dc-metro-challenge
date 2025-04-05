@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.dcmetro.tracker</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/neil/Documents/Projects/dc-metro-challenge/venv/bin/python</string>
+        <string>/Users/neil/Documents/Projects/dc-metro-challenge/dc_metro_tracker/data_collection/scheduler.py</string>
+    </array>
+    <key>RunAtLoad</key>
+    <true/>
+    <key>KeepAlive</key>
+    <true/>
+    <key>StandardErrorPath</key>
+    <string>/Users/neil/Documents/Projects/dc-metro-challenge/logs/metro_tracker_error.log</string>
+    <key>StandardOutPath</key>
+    <string>/Users/neil/Documents/Projects/dc-metro-challenge/logs/metro_tracker.log</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PYTHONPATH</key>
+        <string>/Users/neil/Documents/Projects/dc-metro-challenge</string>
+    </dict>
+    <key>WorkingDirectory</key>
+    <string>/Users/neil/Documents/Projects/dc-metro-challenge</string>
+</dict>
+</plist> 
