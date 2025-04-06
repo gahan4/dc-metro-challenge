@@ -1,6 +1,19 @@
+
+# Python venv and caches
+venv/
+__pycache__/
+*.py[cod]
+
+# SQLite or data artifacts
+*.db
+data/
+*.csv
+*.log
+
+# Secrets
 .env
-__pycache__
-.ipynb_checkpoints/
-*.pyc
-.DS_Store
-.db
+
+# IDE configs
+.vscode/
+*.swp
+
