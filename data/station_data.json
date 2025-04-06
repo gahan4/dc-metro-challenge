@@ -1,0 +1,1609 @@
+{
+  "A01": {
+    "name": "Metro Center",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.898303,
+    "lon": -77.028099,
+    "address": {
+      "street": "607 13th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20005"
+    },
+    "transfer_stations": [
+      "C01",
+      ""
+    ]
+  },
+  "A02": {
+    "name": "Farragut North",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.903192,
+    "lon": -77.039766,
+    "address": {
+      "street": "1001 Connecticut Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20036"
+    },
+    "transfer_stations": []
+  },
+  "A03": {
+    "name": "Dupont Circle",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.909499,
+    "lon": -77.04362,
+    "address": {
+      "street": "1525 20th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20036"
+    },
+    "transfer_stations": []
+  },
+  "A04": {
+    "name": "Woodley Park-Zoo/Adams Morgan",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.924999,
+    "lon": -77.052648,
+    "address": {
+      "street": "2700 Connecticut Ave., NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20008"
+    },
+    "transfer_stations": []
+  },
+  "A05": {
+    "name": "Cleveland Park",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.934703,
+    "lon": -77.058226,
+    "address": {
+      "street": "3599 Connecticut Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20008"
+    },
+    "transfer_stations": []
+  },
+  "A06": {
+    "name": "Van Ness-UDC",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.94362,
+    "lon": -77.063511,
+    "address": {
+      "street": "4200 Connecticut Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20008"
+    },
+    "transfer_stations": []
+  },
+  "A07": {
+    "name": "Tenleytown-AU",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.947808,
+    "lon": -77.079615,
+    "address": {
+      "street": "4501 Wisconsin Ave NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20016"
+    },
+    "transfer_stations": []
+  },
+  "A08": {
+    "name": "Friendship Heights",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.960744,
+    "lon": -77.085969,
+    "address": {
+      "street": "5337 Wisconsin Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20015"
+    },
+    "transfer_stations": []
+  },
+  "A09": {
+    "name": "Bethesda",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.984282,
+    "lon": -77.094431,
+    "address": {
+      "street": "800 North Ln",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814"
+    },
+    "transfer_stations": []
+  },
+  "A10": {
+    "name": "Medical Center",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.999947,
+    "lon": -77.097253,
+    "address": {
+      "street": "8810 Rockville Pike",
+      "city": "Bethesda",
+      "state": "MD",
+      "zip": "20814"
+    },
+    "transfer_stations": []
+  },
+  "A11": {
+    "name": "Grosvenor-Strathmore",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.029158,
+    "lon": -77.10415,
+    "address": {
+      "street": "5301 Tuckerman Ln",
+      "city": "North Bethesda",
+      "state": "MD",
+      "zip": "20852"
+    },
+    "transfer_stations": []
+  },
+  "A12": {
+    "name": "North Bethesda",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.048043,
+    "lon": -77.113131,
+    "address": {
+      "street": "10000 Citadel Ave",
+      "city": "North Bethesda",
+      "state": "MD",
+      "zip": "20852"
+    },
+    "transfer_stations": []
+  },
+  "A13": {
+    "name": "Twinbrook",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.062359,
+    "lon": -77.121113,
+    "address": {
+      "street": "1600 Chapman Ave",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20852"
+    },
+    "transfer_stations": []
+  },
+  "A14": {
+    "name": "Rockville",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.084215,
+    "lon": -77.146424,
+    "address": {
+      "street": "251 Hungerford Dr",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20850"
+    },
+    "transfer_stations": []
+  },
+  "A15": {
+    "name": "Shady Grove",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.119819,
+    "lon": -77.164921,
+    "address": {
+      "street": "215903 Somerville Dr",
+      "city": "Rockville",
+      "state": "MD",
+      "zip": "20855"
+    },
+    "transfer_stations": []
+  },
+  "B01": {
+    "name": "Gallery Pl-Chinatown",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.89834,
+    "lon": -77.021851,
+    "address": {
+      "street": "630 H St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    },
+    "transfer_stations": [
+      "F01",
+      ""
+    ]
+  },
+  "B02": {
+    "name": "Judiciary Square",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.896084,
+    "lon": -77.016643,
+    "address": {
+      "street": "450 F Street NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    },
+    "transfer_stations": []
+  },
+  "B03": {
+    "name": "Union Station",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.897723,
+    "lon": -77.006745,
+    "address": {
+      "street": "701 First St. NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20002"
+    },
+    "transfer_stations": []
+  },
+  "B04": {
+    "name": "Rhode Island Ave-Brentwood",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.920741,
+    "lon": -76.995984,
+    "address": {
+      "street": "2300 Washington Pl NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20018"
+    },
+    "transfer_stations": []
+  },
+  "B05": {
+    "name": "Brookland-CUA",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.933234,
+    "lon": -76.994544,
+    "address": {
+      "street": "801 Michigan Ave NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20017"
+    },
+    "transfer_stations": []
+  },
+  "B06": {
+    "name": "Fort Totten",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.951777,
+    "lon": -77.002174,
+    "address": {
+      "street": "550 Galloway St NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20011"
+    },
+    "transfer_stations": [
+      "E06",
+      ""
+    ]
+  },
+  "B07": {
+    "name": "Takoma",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.975532,
+    "lon": -77.017834,
+    "address": {
+      "street": "327 Cedar St NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20012"
+    },
+    "transfer_stations": []
+  },
+  "B08": {
+    "name": "Silver Spring",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.993841,
+    "lon": -77.031321,
+    "address": {
+      "street": "8400 Colesville Rd",
+      "city": "Silver Spring",
+      "state": "MD",
+      "zip": "20910"
+    },
+    "transfer_stations": []
+  },
+  "B09": {
+    "name": "Forest Glen",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.015413,
+    "lon": -77.042953,
+    "address": {
+      "street": "9730 Georgia Ave",
+      "city": "Silver Spring",
+      "state": "MD",
+      "zip": "20910"
+    },
+    "transfer_stations": []
+  },
+  "B10": {
+    "name": "Wheaton",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.038558,
+    "lon": -77.051098,
+    "address": {
+      "street": "11171 Georgia Ave",
+      "city": "Wheaton",
+      "state": "MD",
+      "zip": "20902"
+    },
+    "transfer_stations": []
+  },
+  "B11": {
+    "name": "Glenmont",
+    "lines": [
+      "RD"
+    ],
+    "lat": 39.061713,
+    "lon": -77.05341,
+    "address": {
+      "street": "12601 Georgia Ave",
+      "city": "Silver Spring",
+      "state": "MD",
+      "zip": "20906"
+    },
+    "transfer_stations": []
+  },
+  "B35": {
+    "name": "NoMa-Gallaudet U",
+    "lines": [
+      "RD"
+    ],
+    "lat": 38.907407,
+    "lon": -77.002961,
+    "address": {
+      "street": "200 Florida Ave N.E.",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20002"
+    },
+    "transfer_stations": []
+  },
+  "C01": {
+    "name": "Metro Center",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.898303,
+    "lon": -77.028099,
+    "address": {
+      "street": "607 13th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20005"
+    },
+    "transfer_stations": [
+      "A01",
+      ""
+    ]
+  },
+  "C02": {
+    "name": "McPherson Square",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.901316,
+    "lon": -77.033652,
+    "address": {
+      "street": "1400 I St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20005"
+    },
+    "transfer_stations": []
+  },
+  "C03": {
+    "name": "Farragut West",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.901311,
+    "lon": -77.03981,
+    "address": {
+      "street": "900 18th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20006"
+    },
+    "transfer_stations": []
+  },
+  "C04": {
+    "name": "Foggy Bottom-GWU",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.900599,
+    "lon": -77.050273,
+    "address": {
+      "street": "2301 I St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20037"
+    },
+    "transfer_stations": []
+  },
+  "C05": {
+    "name": "Rosslyn",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.896595,
+    "lon": -77.07146,
+    "address": {
+      "street": "1850 N. Moore Street",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22209"
+    },
+    "transfer_stations": []
+  },
+  "C06": {
+    "name": "Arlington Cemetery",
+    "lines": [
+      "BL"
+    ],
+    "lat": 38.884574,
+    "lon": -77.063108,
+    "address": {
+      "street": "1000 North Memorial Drive",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22211"
+    },
+    "transfer_stations": []
+  },
+  "C07": {
+    "name": "Pentagon",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.869349,
+    "lon": -77.054013,
+    "address": {
+      "street": "2 South Rotary Road",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22202"
+    },
+    "transfer_stations": []
+  },
+  "C08": {
+    "name": "Pentagon City",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.863045,
+    "lon": -77.059507,
+    "address": {
+      "street": "1250 South Hayes St.",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22202"
+    },
+    "transfer_stations": []
+  },
+  "C09": {
+    "name": "Crystal City",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.85779,
+    "lon": -77.050589,
+    "address": {
+      "street": "1750 S. Bell St.",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22202"
+    },
+    "transfer_stations": []
+  },
+  "C10": {
+    "name": "Ronald Reagan Washington National Airport",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.852985,
+    "lon": -77.043805,
+    "address": {
+      "street": "2400 S. Smith Blvd.",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22202"
+    },
+    "transfer_stations": []
+  },
+  "C11": {
+    "name": "Potomac Yard",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.83321,
+    "lon": -77.04642,
+    "address": {
+      "street": "2900 Potomac Greens Drive",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22314"
+    },
+    "transfer_stations": []
+  },
+  "C12": {
+    "name": "Braddock Road",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.814009,
+    "lon": -77.053763,
+    "address": {
+      "street": "700 N West St",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22314"
+    },
+    "transfer_stations": []
+  },
+  "C13": {
+    "name": "King St-Old Town",
+    "lines": [
+      "BL",
+      "YL"
+    ],
+    "lat": 38.806474,
+    "lon": -77.061115,
+    "address": {
+      "street": "1900 King Street",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22301"
+    },
+    "transfer_stations": []
+  },
+  "C14": {
+    "name": "Eisenhower Avenue",
+    "lines": [
+      "YL"
+    ],
+    "lat": 38.800313,
+    "lon": -77.071173,
+    "address": {
+      "street": "2400 Eisenhower Ave",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22314"
+    },
+    "transfer_stations": []
+  },
+  "C15": {
+    "name": "Huntington",
+    "lines": [
+      "YL"
+    ],
+    "lat": 38.793841,
+    "lon": -77.075301,
+    "address": {
+      "street": "2701 Huntington Ave",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22303"
+    },
+    "transfer_stations": []
+  },
+  "D01": {
+    "name": "Federal Triangle",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.893757,
+    "lon": -77.028218,
+    "address": {
+      "street": "302 12th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20004"
+    },
+    "transfer_stations": []
+  },
+  "D02": {
+    "name": "Smithsonian",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.888022,
+    "lon": -77.028232,
+    "address": {
+      "street": "1200 Independence Avenue SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20004"
+    },
+    "transfer_stations": []
+  },
+  "D03": {
+    "name": "L'Enfant Plaza",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.884775,
+    "lon": -77.021964,
+    "address": {
+      "street": "600 Maryland Avenue SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20024"
+    },
+    "transfer_stations": [
+      "F03",
+      ""
+    ]
+  },
+  "D04": {
+    "name": "Federal Center SW",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.884958,
+    "lon": -77.01586,
+    "address": {
+      "street": "401 3rd Street SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20024"
+    },
+    "transfer_stations": []
+  },
+  "D05": {
+    "name": "Capitol South",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.884968,
+    "lon": -77.005137,
+    "address": {
+      "street": "355 First Street SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20003"
+    },
+    "transfer_stations": []
+  },
+  "D06": {
+    "name": "Eastern Market",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.884124,
+    "lon": -76.995334,
+    "address": {
+      "street": "701 Pennsylvania Avenue SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20003"
+    },
+    "transfer_stations": []
+  },
+  "D07": {
+    "name": "Potomac Ave",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.880841,
+    "lon": -76.985721,
+    "address": {
+      "street": "700 14th Street SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20003"
+    },
+    "transfer_stations": []
+  },
+  "D08": {
+    "name": "Stadium-Armory",
+    "lines": [
+      "BL",
+      "OR",
+      "SV"
+    ],
+    "lat": 38.88594,
+    "lon": -76.977485,
+    "address": {
+      "street": "192 19th St. SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20003"
+    },
+    "transfer_stations": []
+  },
+  "D09": {
+    "name": "Minnesota Ave",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.898284,
+    "lon": -76.948042,
+    "address": {
+      "street": "4000 Minnesota Ave NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20019"
+    },
+    "transfer_stations": []
+  },
+  "D10": {
+    "name": "Deanwood",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.907734,
+    "lon": -76.936177,
+    "address": {
+      "street": "4720 Minnesota Ave NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20019"
+    },
+    "transfer_stations": []
+  },
+  "D11": {
+    "name": "Cheverly",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.91652,
+    "lon": -76.915427,
+    "address": {
+      "street": "5501 Columbia Park Rd",
+      "city": "Cheverly",
+      "state": "MD",
+      "zip": "20785"
+    },
+    "transfer_stations": []
+  },
+  "D12": {
+    "name": "Landover",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.934411,
+    "lon": -76.890988,
+    "address": {
+      "street": "3000 Pennsy Dr",
+      "city": "Landover",
+      "state": "MD",
+      "zip": "20785"
+    },
+    "transfer_stations": []
+  },
+  "D13": {
+    "name": "New Carrollton",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.947674,
+    "lon": -76.872144,
+    "address": {
+      "street": "4700 Garden City Dr",
+      "city": "New Carrollton",
+      "state": "MD",
+      "zip": "20784"
+    },
+    "transfer_stations": []
+  },
+  "E01": {
+    "name": "Mt Vernon Sq 7th St-Convention Center",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.905604,
+    "lon": -77.022256,
+    "address": {
+      "street": "700 M St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    },
+    "transfer_stations": []
+  },
+  "E02": {
+    "name": "Shaw-Howard U",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.912919,
+    "lon": -77.022194,
+    "address": {
+      "street": "1701 8th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    },
+    "transfer_stations": []
+  },
+  "E03": {
+    "name": "U Street/African-Amer Civil War Memorial/Cardozo",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.916489,
+    "lon": -77.028938,
+    "address": {
+      "street": "1240 U Street NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20009"
+    },
+    "transfer_stations": []
+  },
+  "E04": {
+    "name": "Columbia Heights",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.928672,
+    "lon": -77.032775,
+    "address": {
+      "street": "3030 14th St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20009"
+    },
+    "transfer_stations": []
+  },
+  "E05": {
+    "name": "Georgia Ave-Petworth",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.936077,
+    "lon": -77.024728,
+    "address": {
+      "street": "3700 Georgia Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20010"
+    },
+    "transfer_stations": []
+  },
+  "E06": {
+    "name": "Fort Totten",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.951777,
+    "lon": -77.002174,
+    "address": {
+      "street": "550 Galloway St NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20011"
+    },
+    "transfer_stations": [
+      "B06",
+      ""
+    ]
+  },
+  "E07": {
+    "name": "West Hyattsville",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.954931,
+    "lon": -76.969881,
+    "address": {
+      "street": "2700 Hamilton St",
+      "city": "Hyattsville",
+      "state": "MD",
+      "zip": "20782"
+    },
+    "transfer_stations": []
+  },
+  "E08": {
+    "name": "Hyattsville Crossing",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.965276,
+    "lon": -76.956182,
+    "address": {
+      "street": "3575 East-West Hwy",
+      "city": "Hyattsville",
+      "state": "MD",
+      "zip": "20782"
+    },
+    "transfer_stations": []
+  },
+  "E09": {
+    "name": "College Park-U of Md",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.978523,
+    "lon": -76.928432,
+    "address": {
+      "street": "4931 Calvert Rd",
+      "city": "College Park",
+      "state": "MD",
+      "zip": "20740"
+    },
+    "transfer_stations": []
+  },
+  "E10": {
+    "name": "Greenbelt",
+    "lines": [
+      "GR"
+    ],
+    "lat": 39.011036,
+    "lon": -76.911362,
+    "address": {
+      "street": "5500 Greenbelt Metro Dr",
+      "city": "Beltsville",
+      "state": "MD",
+      "zip": "20705"
+    },
+    "transfer_stations": []
+  },
+  "F01": {
+    "name": "Gallery Pl-Chinatown",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.89834,
+    "lon": -77.021851,
+    "address": {
+      "street": "630 H St. NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20001"
+    },
+    "transfer_stations": [
+      "B01",
+      ""
+    ]
+  },
+  "F02": {
+    "name": "Archives-Navy Memorial-Penn Quarter",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.893893,
+    "lon": -77.021902,
+    "address": {
+      "street": "701 Pennsylvania Avenue NW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20004"
+    },
+    "transfer_stations": []
+  },
+  "F03": {
+    "name": "L'Enfant Plaza",
+    "lines": [
+      "GR",
+      "YL"
+    ],
+    "lat": 38.884775,
+    "lon": -77.021964,
+    "address": {
+      "street": "600 Maryland Avenue SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20024"
+    },
+    "transfer_stations": [
+      "D03",
+      ""
+    ]
+  },
+  "F04": {
+    "name": "Waterfront",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.876221,
+    "lon": -77.017491,
+    "address": {
+      "street": "399 M Street SW",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20024"
+    },
+    "transfer_stations": []
+  },
+  "F05": {
+    "name": "Navy Yard-Ballpark",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.876588,
+    "lon": -77.005086,
+    "address": {
+      "street": "200 M Street SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20003"
+    },
+    "transfer_stations": []
+  },
+  "F06": {
+    "name": "Anacostia",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.862072,
+    "lon": -76.995648,
+    "address": {
+      "street": "1101 Howard Rd SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20020"
+    },
+    "transfer_stations": []
+  },
+  "F07": {
+    "name": "Congress Heights",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.845334,
+    "lon": -76.98817,
+    "address": {
+      "street": "1290 Alabama Ave SE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20020"
+    },
+    "transfer_stations": []
+  },
+  "F08": {
+    "name": "Southern Avenue",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.840974,
+    "lon": -76.97536,
+    "address": {
+      "street": "1411 Southern Ave SE",
+      "city": "Hillcrest Heights",
+      "state": "MD",
+      "zip": "20748"
+    },
+    "transfer_stations": []
+  },
+  "F09": {
+    "name": "Naylor Road",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.851187,
+    "lon": -76.956565,
+    "address": {
+      "street": "3226 Naylor Rd",
+      "city": "Hillcrest Heights",
+      "state": "MD",
+      "zip": "20748"
+    },
+    "transfer_stations": []
+  },
+  "F10": {
+    "name": "Suitland",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.843891,
+    "lon": -76.932022,
+    "address": {
+      "street": "4500 Silver Hill Rd",
+      "city": "Suitland",
+      "state": "MD",
+      "zip": "20746"
+    },
+    "transfer_stations": []
+  },
+  "F11": {
+    "name": "Branch Ave",
+    "lines": [
+      "GR"
+    ],
+    "lat": 38.826995,
+    "lon": -76.912134,
+    "address": {
+      "street": "4707 Old Soper Rd",
+      "city": "Suitland",
+      "state": "MD",
+      "zip": "20746"
+    },
+    "transfer_stations": []
+  },
+  "G01": {
+    "name": "Benning Road",
+    "lines": [
+      "BL",
+      "SV"
+    ],
+    "lat": 38.890488,
+    "lon": -76.938291,
+    "address": {
+      "street": "4500 Benning Rd NE",
+      "city": "Washington",
+      "state": "DC",
+      "zip": "20019"
+    },
+    "transfer_stations": []
+  },
+  "G02": {
+    "name": "Capitol Heights",
+    "lines": [
+      "BL",
+      "SV"
+    ],
+    "lat": 38.889757,
+    "lon": -76.913382,
+    "address": {
+      "street": "133 Central Ave",
+      "city": "Capitol Heights",
+      "state": "MD",
+      "zip": "20743"
+    },
+    "transfer_stations": []
+  },
+  "G03": {
+    "name": "Addison Road-Seat Pleasant",
+    "lines": [
+      "BL",
+      "SV"
+    ],
+    "lat": 38.886713,
+    "lon": -76.893592,
+    "address": {
+      "street": "100 Addison Rd S",
+      "city": "Capitol Heights",
+      "state": "MD",
+      "zip": "20743"
+    },
+    "transfer_stations": []
+  },
+  "G04": {
+    "name": "Morgan Boulevard",
+    "lines": [
+      "BL",
+      "SV"
+    ],
+    "lat": 38.8913,
+    "lon": -76.8682,
+    "address": {
+      "street": "401 Garrett A Morgan Blvd",
+      "city": "Landover",
+      "state": "MD",
+      "zip": "20785"
+    },
+    "transfer_stations": []
+  },
+  "G05": {
+    "name": "Downtown Largo",
+    "lines": [
+      "BL",
+      "SV"
+    ],
+    "lat": 38.9008,
+    "lon": -76.8449,
+    "address": {
+      "street": "9000 Lottsford Rd",
+      "city": "Largo",
+      "state": "MD",
+      "zip": "20774"
+    },
+    "transfer_stations": []
+  },
+  "J02": {
+    "name": "Van Dorn Street",
+    "lines": [
+      "BL"
+    ],
+    "lat": 38.799193,
+    "lon": -77.129407,
+    "address": {
+      "street": "5690 Eisenhower Ave",
+      "city": "Alexandria",
+      "state": "VA",
+      "zip": "22310"
+    },
+    "transfer_stations": []
+  },
+  "J03": {
+    "name": "Franconia-Springfield",
+    "lines": [
+      "BL"
+    ],
+    "lat": 38.766129,
+    "lon": -77.168797,
+    "address": {
+      "street": "6880 Frontier Dr",
+      "city": "Springfield",
+      "state": "VA",
+      "zip": "22150"
+    },
+    "transfer_stations": []
+  },
+  "K01": {
+    "name": "Court House",
+    "lines": [
+      "OR",
+      "SV"
+    ],
+    "lat": 38.891499,
+    "lon": -77.08391,
+    "address": {
+      "street": "2100 Wilson Blvd",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22201"
+    },
+    "transfer_stations": []
+  },
+  "K02": {
+    "name": "Clarendon",
+    "lines": [
+      "OR",
+      "SV"
+    ],
+    "lat": 38.886373,
+    "lon": -77.096963,
+    "address": {
+      "street": "3100 Wilson Blvd",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22201"
+    },
+    "transfer_stations": []
+  },
+  "K03": {
+    "name": "Virginia Square-GMU",
+    "lines": [
+      "OR",
+      "SV"
+    ],
+    "lat": 38.88331,
+    "lon": -77.104267,
+    "address": {
+      "street": "3600 Fairfax Drive",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22201"
+    },
+    "transfer_stations": []
+  },
+  "K04": {
+    "name": "Ballston-MU",
+    "lines": [
+      "OR",
+      "SV"
+    ],
+    "lat": 38.882071,
+    "lon": -77.111845,
+    "address": {
+      "street": "4230 Fairfax Drive",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22201"
+    },
+    "transfer_stations": []
+  },
+  "K05": {
+    "name": "East Falls Church",
+    "lines": [
+      "OR",
+      "SV"
+    ],
+    "lat": 38.885841,
+    "lon": -77.157177,
+    "address": {
+      "street": "2001 N Sycamore St",
+      "city": "Arlington",
+      "state": "VA",
+      "zip": "22205"
+    },
+    "transfer_stations": []
+  },
+  "K06": {
+    "name": "West Falls Church",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.90067,
+    "lon": -77.189394,
+    "address": {
+      "street": "7040 Haycock Rd",
+      "city": "Falls Church",
+      "state": "VA",
+      "zip": "22043"
+    },
+    "transfer_stations": []
+  },
+  "K07": {
+    "name": "Dunn Loring-Merrifield",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.883015,
+    "lon": -77.228939,
+    "address": {
+      "street": "2700 Gallows Rd",
+      "city": "Vienna",
+      "state": "VA",
+      "zip": "22180"
+    },
+    "transfer_stations": []
+  },
+  "K08": {
+    "name": "Vienna/Fairfax-GMU",
+    "lines": [
+      "OR"
+    ],
+    "lat": 38.877693,
+    "lon": -77.271562,
+    "address": {
+      "street": "9550 Saintsbury Dr",
+      "city": "Fairfax",
+      "state": "VA",
+      "zip": "22031"
+    },
+    "transfer_stations": []
+  },
+  "N01": {
+    "name": "McLean",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.924478,
+    "lon": -77.210167,
+    "address": {
+      "street": "1824 Dolley Madison Boulevard",
+      "city": "McLean",
+      "state": "VA",
+      "zip": "22102"
+    },
+    "transfer_stations": []
+  },
+  "N02": {
+    "name": "Tysons",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.920056,
+    "lon": -77.223314,
+    "address": {
+      "street": "1943 Chain Bridge Road",
+      "city": "McLean",
+      "state": "VA",
+      "zip": "22102"
+    },
+    "transfer_stations": []
+  },
+  "N03": {
+    "name": "Greensboro",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.919749,
+    "lon": -77.235192,
+    "address": {
+      "street": "8305 Leesburg Pike",
+      "city": "Vienna",
+      "state": "VA",
+      "zip": "22182"
+    },
+    "transfer_stations": []
+  },
+  "N04": {
+    "name": "Spring Hill",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.929273,
+    "lon": -77.241988,
+    "address": {
+      "street": "1576 Spring Hill Road",
+      "city": "Vienna",
+      "state": "VA",
+      "zip": "22182"
+    },
+    "transfer_stations": []
+  },
+  "N06": {
+    "name": "Wiehle-Reston East",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.947753,
+    "lon": -77.340179,
+    "address": {
+      "street": "1908 Reston Station Blvd",
+      "city": "Reston",
+      "state": "VA",
+      "zip": "20190"
+    },
+    "transfer_stations": []
+  },
+  "N07": {
+    "name": "Reston Town Center",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.952768,
+    "lon": -77.360185,
+    "address": {
+      "street": "1998 Edmund Halley Drive",
+      "city": "Reston",
+      "state": "VA",
+      "zip": "20191"
+    },
+    "transfer_stations": []
+  },
+  "N08": {
+    "name": "Herndon",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.952821,
+    "lon": -77.385178,
+    "address": {
+      "street": "12530 Sunrise Valley Dr",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20191"
+    },
+    "transfer_stations": []
+  },
+  "N09": {
+    "name": "Innovation Center",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.960758,
+    "lon": -77.415295,
+    "address": {
+      "street": "13747-A Sunrise Valley Dr",
+      "city": "Herndon",
+      "state": "VA",
+      "zip": "20171"
+    },
+    "transfer_stations": []
+  },
+  "N10": {
+    "name": "Washington Dulles International Airport",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.955784,
+    "lon": -77.448148,
+    "address": {
+      "street": "44920 Saarinen Circle",
+      "city": "Dulles",
+      "state": "VA",
+      "zip": "20166"
+    },
+    "transfer_stations": []
+  },
+  "N11": {
+    "name": "Loudoun Gateway",
+    "lines": [
+      "SV"
+    ],
+    "lat": 38.99204,
+    "lon": -77.460685,
+    "address": {
+      "street": "22505 Lockridge Rd",
+      "city": "Ashburn",
+      "state": "VA",
+      "zip": "20166"
+    },
+    "transfer_stations": []
+  },
+  "N12": {
+    "name": "Ashburn",
+    "lines": [
+      "SV"
+    ],
+    "lat": 39.005283,
+    "lon": -77.491537,
+    "address": {
+      "street": "43624 Croson Ln",
+      "city": "Ashburn",
+      "state": "VA",
+      "zip": "20148"
+    },
+    "transfer_stations": []
+  },
+  "timestamp": "2025-04-05T10:43:27.431689"
+}
