@@ -4,32 +4,6 @@ import sqlite3
 from dotenv import load_dotenv
 import pandas as pd
 
-def create_train_positions_table(db_path: str = "etl/data/metro_challenge.db"):
-    """
-    Initializes an empty table to hold information related to train positions
-    """
-
-    conn = sqlite3.connect("data/metro_challenge.db")
-    cursor = conn.cursor()
-
-    # Create the table with types matching your sample data
-    cursor.execute("""
-    CREATE TABLE IF NOT EXISTS fact_train_position (
-        TrainId TEXT,
-        TrainNumber TEXT,
-        CarCount INTEGER,
-        DirectionNum INTEGER,
-        CircuitId INTEGER,
-        DestinationStationCode TEXT,
-        LineCode TEXT,
-        SecondsAtLocation INTEGER,
-        ServiceType TEXT
-    )
-    """)
-
-    conn.commit()
-    conn.close()
-
 def get_train_positions(db_path: str = "etl/data/metro_challenge.db"):
     """
     Fetches WMATA line data using an API key stored in .env,
